@@ -16,17 +16,17 @@ A beginner Jupyter notebook that prints a simple machine learning welcome messag
 
 ## Learning Objectives
 
-Through this assignment, I practiced:
+Through this assignment, I learned and executed:
 
 1. Creating a GitHub repository
 2. Uploading files to GitHub
 3. Using a README file for documentation
-4. Creating a simple notebook file
+4. Creating a simple notebook file using Google Colab in place of Jupyter notebook.
 5. Building a foundation for future machine learning projects
 
 ## Professional Goal
 
-My goal in this course is to build a strong foundation in machine learning, Python, data handling, model development, and project documentation. I also want to use GitHub to develop a professional portfolio that reflects my growth in artificial intelligence and machine learning.
+My goal in this course is to build a strong foundation in machine learning, Python, data handling, model development, and project documentation. I also want to use GitHub to develop a professional portfolio that reflects my growth in artificial intelligence and machine learning. Not just to get an A+ Grade, which is an ultimate part of this course.
 
 ## Author
 
