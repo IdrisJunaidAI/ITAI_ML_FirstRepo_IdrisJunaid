@@ -1,0 +1,1 @@
+This is my first GitHub file for the Classic Machine Learning course. I am learning how to use GitHub to organize, share, and submit machine learning projects professionally.
